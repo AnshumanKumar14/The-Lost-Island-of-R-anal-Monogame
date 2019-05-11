@@ -4,13 +4,13 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/TheLostIslandRanal/TheLostIslandRanal/Content/0x72_16x16DungeonTileset.v4.png</File>
-    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/TheLostIslandRanal/TheLostIslandRanal/Content/Dungeon_Tileset.png</File>
-    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/TheLostIslandRanal/TheLostIslandRanal/Content/flag_1.png</File>
-    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/TheLostIslandRanal/TheLostIslandRanal/Content/Map1.tmx</File>
-    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/TheLostIslandRanal/TheLostIslandRanal/Content/Map2.tmx</File>
-    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/TheLostIslandRanal/TheLostIslandRanal/Content/OutdoorsTileset.png</File>
-    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/TheLostIslandRanal/TheLostIslandRanal/Content/tilesheet.png</File>
+    <File>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/TheLostIslandRanal/Content/0x72_16x16DungeonTileset.v4.png</File>
+    <File>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/TheLostIslandRanal/Content/Dungeon_Tileset.png</File>
+    <File>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/TheLostIslandRanal/Content/flag_1.png</File>
+    <File>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/TheLostIslandRanal/Content/Map1.tmx</File>
+    <File>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/TheLostIslandRanal/Content/Map2.tmx</File>
+    <File>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/TheLostIslandRanal/Content/OutdoorsTileset.png</File>
+    <File>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/TheLostIslandRanal/Content/tilesheet.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

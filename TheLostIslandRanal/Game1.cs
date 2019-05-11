@@ -5,6 +5,10 @@ using MonoGame.Extended.Tiled;
 using MonoGame.Extended.Tiled.Graphics;
 using MonoGame.Extended;
 
+/// <summary>
+/// Original game mock up, though not utilised, we still refer to it at times
+/// </summary>
+
 namespace TheLostIslandRanal
 {
     /// <summary>
