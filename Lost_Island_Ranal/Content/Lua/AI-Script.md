@@ -1,6 +1,6 @@
 # AI Script in LUA
 
-```csharp
+```lua
 local function handle_player_hit(entity, engine, dammage, power)
 	local physics = engine:Get_Component(entity, "Physics")
 	local body = engine:Get_Component(entity, "Body")
