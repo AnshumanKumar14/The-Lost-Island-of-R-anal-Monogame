@@ -35,7 +35,7 @@ Strategies like this let us potentially do a better job than a general-purpose G
 ## Further reading:
 
 A list of useful data-oriented design resources.
-- http://gameprogrammingpatterns.com/ — a discussion of other game programming patterns that might also be novel. The section on “data locality” is particularly relevant.
+- http://gameprogrammingpatterns.com/   a discussion of other game programming patterns that might also be novel. The section on “data locality” is particularly relevant.
 - Building a data-oriented entity system (part 1) — if you want to build an ECS framework yourself. http://bitsquid.blogspot.com/2014/08/building-data-oriented-entity-system.html
 - Unity ECS documentation — if you want to build inside an ECS framework. https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/Documentation~/index.md
 
