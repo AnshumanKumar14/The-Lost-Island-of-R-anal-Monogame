@@ -3,11 +3,11 @@
 
 
 Example Enemy: 
-![alt text](https://github.com/TheGeekiestOne/The-Lost-Island-of-R-anal-Monogame/blob/master/Screenshots/enemy.JPG"Enemy - Melee)
+![alt text](https://github.com/TheGeekiestOne/The-Lost-Island-of-R-anal-Monogame/blob/master/Screenshots/enemy.JPG"Enemy - Melee")
 
 NPC That turns into a werewold: 
-![alt text](https://github.com/TheGeekiestOne/The-Lost-Island-of-R-anal-Monogame/blob/master/Screenshots/Boss.PNG"Boss)
+![alt text](https://github.com/TheGeekiestOne/The-Lost-Island-of-R-anal-Monogame/blob/master/Screenshots/Boss.PNG"Boss")
 
 
 NPC That turns into a werewolf: 
-![alt text](https://github.com/TheGeekiestOne/The-Lost-Island-of-R-anal-Monogame/blob/master/Screenshots/17499320_271797973261671_3633742176124042856_n.PNG "NPC 2)
+![alt text](https://github.com/TheGeekiestOne/The-Lost-Island-of-R-anal-Monogame/blob/master/Screenshots/17499320_271797973261671_3633742176124042856_n.PNG "NPC 2 ")
