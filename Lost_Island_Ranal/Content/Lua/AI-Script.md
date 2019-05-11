@@ -1,5 +1,6 @@
-#AI Script in LUA
+# AI Script in LUA
 
+```csharp
 local function handle_player_hit(entity, engine, dammage, power)
 	local physics = engine:Get_Component(entity, "Physics")
 	local body = engine:Get_Component(entity, "Body")
@@ -31,3 +32,4 @@ local function handle_player_hit(entity, engine, dammage, power)
 			end
 		end
 end
+```
