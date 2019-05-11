@@ -21,6 +21,23 @@ An entity is a composition of components identified by an ID. Often you only nee
 #### Systems
 A system is a class that will run during the game's Update or Draw calls. They usually contain the game logic about how to manage a filtered collection of entities and their components.
 
+Using components, we can pick and choose bits of behavior for each object we want
+![alt text](https://cdn-images-1.medium.com/max/800/1*gObzr-U5tFUl-TJYmTxhow.png "ECS Layout")
+
+Some components (like Position) are shared between systems. Other components can be private to a particular system, which allows for information hiding and greater optimization in memory layouts.
+
+For example, let’s say that one scene in the game contains a thousand entities. Almost all of these entities contain a position, so we could just allocate a large 1000-element array for our position components, and store the position for each entity indexed by its entity ID. Since the array is almost completely populated, and we’ll want to reference entity positions on a regular basis, this is probably the most efficient way to store this information.
+
+On the other hand, maybe only a relatively small amount of our scene’s entities have a velocity. In this case, we might use some other strategies to allocate just enough memory for the velocities we do have, and then map entity IDs into our velocities array.
+
+Strategies like this let us potentially do a better job than a general-purpose GC or system allocator — although of course we should be careful and continually profile to make sure we’re actually benefiting from the extra complexity of managing our own memory.
+
+## Further reading:
+
+A list of useful data-oriented design resources.
+- http://gameprogrammingpatterns.com/ — a discussion of other game programming patterns that might also be novel. The section on “data locality” is particularly relevant.
+- Building a data-oriented entity system (part 1) — if you want to build an ECS framework yourself. http://bitsquid.blogspot.com/2014/08/building-data-oriented-entity-system.html
+- Unity ECS documentation — if you want to build inside an ECS framework. https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/Documentation~/index.md
 
 ### Screenshots:
 Example Enemy: 
