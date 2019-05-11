@@ -12,7 +12,7 @@ using System.Collections.Generic;
 /// <summary>
 /// 
 /// 
-/// 
+///  Drop Items and have experience
 /// 
 /// </summary>
 
@@ -20,8 +20,8 @@ namespace Lost_Island_Ranal.ECS.Components
 {
     class Enemy : Component
     {
-        public List<string> Drop_Items { get; set; }
-        public float Experience { get; set; } = 0;
+        public List<string> Drop_Items { get; set; } // Drop items 
+        public float Experience { get; set; } = 0; //expereince points
 
         public Enemy(List<string> _drop_items) : base(Types.Enemy)
         {

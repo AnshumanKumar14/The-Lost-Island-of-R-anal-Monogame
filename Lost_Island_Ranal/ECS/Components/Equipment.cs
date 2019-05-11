@@ -12,7 +12,7 @@ using System;
 /// <summary>
 /// 
 /// 
-/// 
+///  assigning compants to equipiable items 
 /// 
 /// </summary>
 
