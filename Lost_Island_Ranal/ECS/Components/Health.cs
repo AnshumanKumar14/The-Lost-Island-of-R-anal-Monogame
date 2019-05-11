@@ -21,16 +21,18 @@ namespace Lost_Island_Ranal.ECS.Components
     class Health : Component
     {
         public int Amount { get; set; } = 3;
-        public bool Should_Die { get => Amount <= 0; }
+        public bool Should_Die { get => Amount <= 0; } //counter to detect if health 0 then die
 
-        public float Shield_Timer{ get; set; } = 0;
+        public float Shield_Timer{ get; set; } = 0; //time for shield replinish?
         public float Max_Shield_Timer { get; set; } = 1f;
 
+        // total player /enemy health 
         public Health(int total) : base(Types.Health)
         {
             Amount = total;
         }
 
+        //Plans to develop shield / energy shield / magic shield on top of health
         public void Hurt(int dammage, bool shield = false) {
             if (shield)
             {
