@@ -1,6 +1,6 @@
 # The Lost Island of R'anal-Monogame
 ### Rpg Written in C# using the MonoGame framework
-
+Planing on developing this further or moving to Unity? 
 ## Made WIth:
 
 ![alt text](https://camo.githubusercontent.com/7f8e73045428d031028bab0288434e344046dd77/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f37376563663066623964383431396265373731356336653832326536363536323f733d313530 "NLUA logo")
