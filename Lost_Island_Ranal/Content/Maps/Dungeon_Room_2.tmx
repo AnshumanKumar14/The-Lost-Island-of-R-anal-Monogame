@@ -130,7 +130,7 @@
     <property name="is_sensor" type="bool" value="true"/>
    </properties>
   </object>
-  <object id="90" name="Shulk" type="Shulk" x="240" y="488" width="16" height="16"/>
+  <object id="90" name="Ranged" type="Ranged" x="240" y="488" width="16" height="16"/>
   <object id="191" type="Player" x="264.5" y="456" width="16" height="16"/>
  </objectgroup>
  <objectgroup name="Billboards">

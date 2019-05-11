@@ -95,7 +95,7 @@ return {
 	------------------------------------------------------ SHULK AI -------------------------------------------------------------
 	--																														   --
 	-----------------------------------------------------------------------------------------------------------------------------
-	Shulk = function(entity, engine)
+	Ranged = function(entity, engine)
 		local mx_dist = 150
 		local body = engine:Get_Component(entity, "Body")
 		local anim = engine:Get_Component(entity, "Animation")

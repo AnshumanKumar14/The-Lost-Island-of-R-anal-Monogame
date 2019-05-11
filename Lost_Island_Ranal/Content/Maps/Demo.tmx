@@ -1016,7 +1016,7 @@
   <object id="110" type="Bird" x="248.333" y="320.333" width="5.66667" height="6"/>
   <object id="111" type="Bird" x="238.5" y="335" width="5.66667" height="6"/>
   <object id="112" type="Bird" x="258.833" y="349.666" width="5.66667" height="6"/>
-  <object id="113" name="Shulk" type="Shulk" x="587.625" y="686.625" width="16" height="16"/>
+  <object id="113" name="Ranged" type="Ranged" x="587.625" y="686.625" width="16" height="16"/>
  </objectgroup>
  <objectgroup name="Billboards">
   <object id="50" name="Lamp Post" type="Billboard" x="368" y="303.818" width="16" height="32">

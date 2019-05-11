@@ -689,21 +689,14 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="Content\Maps\Demo.tmx" />
-    <None Include="Content\Maps\DemoArena.tmx" />
     <None Include="Content\Maps\Demo_Practice.tmx" />
     <None Include="Content\Maps\Dungeon_Floor_1.tmx" />
-    <None Include="Content\Maps\Dungeon_Room_1.tmx" />
     <None Include="Content\Maps\Dungeon_Room_2.tmx" />
     <None Include="Content\Maps\Dungeon_Room_21.tmx" />
-    <None Include="Content\Maps\DustysDive.tmx" />
     <None Include="Content\Maps\Grassy assy.tmx" />
     <None Include="Content\Maps\Grassy_assy.tmx" />
-    <None Include="Content\Maps\Maze.tmx" />
-    <None Include="Content\Maps\Ship.tmx" />
     <None Include="Content\Maps\sky_test.tmx" />
     <None Include="Content\Maps\test.tmx" />
-    <None Include="Content\Maps\test_ortho.tmx" />
-    <None Include="Content\Maps\Text1.tmx" />
     <None Include="Content\OutdoorsTileset.xnb" />
     <None Include="Content\Sky.xnb" />
     <None Include="Content\SquareLogo_1024px.xnb">

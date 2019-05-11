@@ -20,7 +20,7 @@ local AI = require "Content/Lua/AI"
 require "Content/Lua/Grendle_AI"
 
 return {
-	["Zombie"] = {
+	["Zombie"] = { --not is use yet
 		tags = {"Enemy","Zombie"},
 		components = {
 			["Body"] = {15, 5},
@@ -60,7 +60,7 @@ return {
 		}
 	},
 
-	["Blue-Flame"] = {
+	["Blue-Flame"] = { -- no ai just flames animation load when player enters level
 		tags = {},
 		components = {
 			["Body"] = {8, 4},
@@ -72,7 +72,7 @@ return {
 	},
 
 
-	["Bird"] = {
+	["Bird"] = { -- no ai, just bird animation starts when player close by - flies away
 		tags = {"Meat"},
 		components = {
 			["Body"] = {8, 4},
@@ -126,13 +126,13 @@ return {
 		}
 	},
 
-	["Shulk"] = {
+	["Ranged"] = {
 		tags = {"Enemy"},
 		components = {
 			["Body"] = {32, 24},
 			["Animation"] = {"entities", {"ranged-idle", 0.1}, {"ranged-attack", 0.1}},
 			["Physics"] = {blacklist = {"Enemy-Hit"}},
-			["Ai"] = {"Function", AI.Shulk},
+			["Ai"] = {"Function", AI.Ranged},
 			["Light"] = {},
 			["Health"] = {3},
 			["Enemy"] = {
@@ -144,7 +144,7 @@ return {
 		}
 	},
 
-	["Shulk-Bullet"] = {
+	["Ranged-Bullet"] = {
 		tags = {},
 		components = {
 			["Body"] = {8, 4},
