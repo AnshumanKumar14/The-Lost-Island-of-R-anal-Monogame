@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="68" height="112" tilewidth="8" tileheight="8" infinite="0" backgroundcolor="#531113" nextlayerid="17" nextobjectid="311">
+ <properties>
+  <property name="Sky" value="true"/>
+ </properties>
+ <tileset firstgid="1" name="dungeon_tiles" tilewidth="8" tileheight="8" tilecount="4096" columns="64">
+  <image source="../dungeon_tiles.png" width="512" height="512"/>
+  <terraintypes>
+   <terrain name="Grass" tile="0"/>
+  </terraintypes>
+  <tile id="256" terrain="0,0,0,0"/>
+  <tile id="260" terrain="0,0,,"/>
+  <tile id="321" terrain="0,0,0,"/>
+  <tile id="330" terrain="0,0,,0"/>
+  <tile id="448" terrain="0,,0,"/>
+  <tile id="451" terrain=",,,0"/>
+  <tile id="452" terrain=",,0,"/>
+  <tile id="459" terrain=",0,,0"/>
+  <tile id="515" terrain=",0,,"/>
+  <tile id="516" terrain="0,,,"/>
+  <tile id="897" terrain="0,,0,0"/>
+  <tile id="906" terrain=",0,0,0"/>
+  <tile id="963" terrain=",,0,0"/>
+ </tileset>
+ <tileset firstgid="4097" name="Tiles_1" tilewidth="8" tileheight="8" tilecount="4096" columns="64">
+  <image source="../Tiles_1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="8193" name="Tiles_1" tilewidth="8" tileheight="8" tilecount="4096" columns="64">
+  <image source="../Tiles_1.png" width="512" height="512"/>
+  <tile id="3894">
+   <animation>
+    <frame tileid="3766" duration="100"/>
+    <frame tileid="3894" duration="100"/>
+   </animation>
+  </tile>
+ </tileset>
+ <tileset firstgid="12289" name="OutdoorsTileset" tilewidth="8" tileheight="8" tilecount="216" columns="12">
+  <image source="OutdoorsTileset.png" width="96" height="144"/>
+ </tileset>
+ <layer id="5" name="Forground_Ground" width="68" height="112">
+  <properties>
+   <property name="layer" value=".5"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2EEOgjAURVHZAezKoe5/Mzpw8hImRj7tx3OSpjMCzW0h3G4Ac1mX+utvy/Hz4z2eRXOlqvuuWmd97M9VOvaxFa6HPpI+kj5Sxz4qdeyjkj6SPpI+kj6SPpI+kj6SPpI+kj5Stz6qdeujmj6SPpI+Upc+ztKlj7OM6GNmo/qY1WznBwBjrMtv42q+faarrgMAAABwvvtnAMBRvFfoxLcQzM8eZY/zGwAAAIDR/KMCAAAAAADgn7wAuxL2rg==
+  </data>
+ </layer>
+ <layer id="1" name="Floor" width="68" height="112">
+  <properties>
+   <property name="layer" value="0.2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmmFOwzAMhbsTAKfa/m070m4AN4MbQSUiGZOkaWzHTvee9JQJtcH5+uY0iMeyLA8YhuEOQxAEQRAEQRAEQXE1w3nuUrG2IvB4PdXXvGVNefGQrP8oPHpy8LbjnnX+9fo09mgUj1z9t5+a78LvCvc6X5q3R5Y8pH1BYpoTSV405cVCMy8SpefgzYDmI9dXRuXFm0HJKR98tJJnn6iZ15Vy8fJrq5x4r3v1naxz69p0nXZOouaixRb9JM19C86lVJ92P/Fep3ZOwEMnHzP3DYucRO8Xo3NypHz07jMX9vmobs2Hd50eeXlmHnvPN+s9W+fF1tFa0vpqdV7ImFw6L7aOOWnOJ62vViflMGs++HlWmg9uC+6a4r+Pn2e18kFzkv4OdhXkRDMvGv2ipb5aPhKPCHnR6Bct9Y3Y76WifS33HrG3n1xPf3M/ksdlkav1faLWT+i9iYdHPqx4pBzk9sPW3B4tH4lHKQc1e/UPy3yU3pe26tm7v0TnQfc//rz5tdfMzzz2l9xz2urzpTE3Dx1X8/2kNx/aTPhzs3AuB7X9pHR/6f3IOhfa5s+/p3/Q+yx5eJg+757rj8Zjr3n/seKxZ//3NPIxLh8j9hOrfCRr8jiCwQM8wGMsjxHvoVF50P/Zku4n5wDr3+LxvmONPbk4Fz5HMdenYvbPBh7NY1GeHzxs+XjwsGQSOSM1ReXB53h2Hnx/0mDyUTjbzsJDOxtfDTw0mUTfYxYyWvPQZmHBpVWReWjnYxQPbSal+UbwkDKx/K5o8ehRVBYjvytSHhacNOuQ8OhhEjkTUhY9PCy4eDPQ4GHBKgIPKyYjbSXvdUXlQT/PYEvNwIPWOVL8d3sziCJvHpEFDv9lvf6ZWLSq1ANnzgEEQRAEQRAEQRAEQRAEQRD0PPoGbdKGxw==
+  </data>
+ </layer>
+ <layer id="4" name="Nubs" width="68" height="112">
+  <properties>
+   <property name="layer" value="0.215"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2EEKACEIBdCO1+2nI7WdgRYJUjC+B26F5KNQawAAAAAA54yEHk9CD+7KyAH/IQ+8yQMrcgFE2RtAlL0BQKaKd8W/PQAAAAAAAAAAADf1jarCu+NVkVnsMRMAAAAAAAAA+JrjqhH3
+  </data>
+ </layer>
+ <layer id="2" name="StairsUp" width="68" height="112">
+  <properties>
+   <property name="layer" value="0.21"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmkFuwjAQRW2SA5QK7tRlQXAgbtCk7b0aSu/TqYilxgoWdhwHW+9Jo6+wGM3YY/5mTkqpU8J40kqttb+mrDFlNCul2pW/Ll33XNFJb+eVv6aq71UrtdPpdF0p9Vz5a6r6Qt+zj27k3Lfq+r2T3vaVv9p55qo3xbkfpIejun430ltb+audJ+f5+JAePvt77aS3c+Wvdp6c5+MiPfz097qu5f+g9lc7T87zsZHY9t876W1f+6udJ+f5OEgc++9Gemtrf7XzZD0f/3yhk97Otb/aebKej0i+UKK/PEKepecjli+U6C+PkGfp+YjlCyX6yyPkWXw+8Bf8xaH4C/7ifPcafxncK/6CvzgUf8FfnO9e4y+Dd6/xl8G94i/4i0PxF/zF+e41/jJ49xp/Gdwr/oK/OBR/yddf3v/OPYFOJVWdncSXpReJ78g6ldj1GLV7byTeLB37baqG7lkajV3PLR2bj7HfpmronqXR2PXc0lTzEbpnabS0+QjdszSaaj5SEbpnabQ0QvcsjZZG6J6l0dII3bM0Whqhe5ZGSyN0z9IoAAAAAAAAAAAAAAAAAADAErzcESVxT7+lnwEAAAAAAAAAAAAAAAAAAAAAzM8vf8CjPw==
+  </data>
+ </layer>
+ <layer id="3" name="Shadow" width="68" height="112">
+  <properties>
+   <property name="layer" value="0.21"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmkFyhCAQRducjGWOxdyMo2UhmKG1B9RRVN6rejWVLBDaX59UTV4i8jpZWfgU4+f33z/VT3PobR7fovU5rjSLxB32CAAAAAD3gr8LP8NsAAAAAAAAAAAAAAAAAAAA/nm9ffKdOv+Xq2EeOcwjh3nkMI8c5pHDPHKYRw7zyGEeOcwjh3nkMI8cPQ8X7Q0X1fPw0d7wUT2PEO2NEJ31xxDtjXjuWX8Mo72Rzj3rj2G0N9K5Z/0xjDrp455xsnyvTP3xM+qlj3vGy/K90us9E2T5Xun2njHuFeuecXJujzg555nTc4x7xbpnvDyzR3zSuFeseybIM3skJOM5i/0R75nH9kg6VzxnaR6te+QonKzrjaf3iJd1vVHqESf3zImLBlnXG6Ue8XLPnPjo1t6weiRInpPk1XDKEN3aG1aP6Jwkr4ZXTvve2BtWj+icJJ20zYt+flBO+97YG1aP6JxcJS+z5+v9pX3v7I1STmrzktyLte7s+Xp/X8pFKSe1eUnuxVzXyMNRubByUpuXpNupua6Rh6NyYeWkNi+l3NRqrmvk4ehcbM1LKTe1muuenIe9eSnlplZz3cZ5WJuXUm5qtdZtfd6S+n2VclOrtW7r827Ver+1tt7/t7Xeb62t94+IiIiI2KO/hq33xTw+7wcRERERsYV/Hjau4Q==
+  </data>
+ </layer>
+ <layer id="6" name="BottomGrass" width="68" height="112">
+  <properties>
+   <property name="layer" value="0.22"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2stKw0AYQOFg46a6re3ziFBQt728jksv216eqbrt5XH8uyh4QhadihMSzwcDWfzCzGEqptgviuIm1m2sfobnlwtXjr0dnx9jPcV6zvR8aY9c+3yL9R7rI9Pz8Wx3veJsw5gd9fLtcxPrM9ZXpudJnG2a0GMWs/Nevn3mtoizLRN6rGJ2nTDfNts42y7hfPuYPXS4x6CM3x/l+fPDmB0lzLfNJM42TTjfLGbnHe6xiLMtE863itl1h3ts42y7hPPtY/bQ4R6D67T5YcyPEn+mze7L+vVf2YPsQfYge5A9yB5kD7IH2YPsQfYge5A9yB5kD7IH2YPsQfYge5A9yB5kD7IH2YPsoSa8dvh/iiRJkqRcfJ8je5A9qNphXNjj1MD74eelyh702x4PV3+3tyZ4P8geZA+qazFuelMN8n6QPcgeZA+yB/k+R94PsgfZg+xB1e8J7eH9+Mn7Qd4PsgfZg+xB9iB7kD2o7rtke3g/TuxB9iB7kD3IHuT7Pnk/yL/HyPtB9iB7kD3IHmQPsgfZg+whSZIk6VzfQhb5LA==
+  </data>
+ </layer>
+ <objectgroup id="9" name="Entities">
+  <object id="2" type="Bird" x="206.167" y="83.5" width="5.66667" height="6"/>
+  <object id="62" type="Bird" x="350.334" y="84.167" width="5.66667" height="6"/>
+  <object id="63" type="Bird" x="348.667" y="132.833" width="5.66667" height="6"/>
+  <object id="64" type="Bird" x="270.167" y="413.667" width="5.66667" height="6"/>
+  <object id="65" type="Bird" x="263.334" y="664.167" width="5.66667" height="6"/>
+  <object id="86" name="Npc-2" type="npc-2" x="268.167" y="155" width="24" height="24"/>
+  <object id="88" name="Npc-3" type="npc-3" x="384" y="496" width="24" height="24" visible="0"/>
+  <object id="89" name="Npc-4" type="npc-4" x="336" y="488" width="24" height="24" visible="0"/>
+  <object id="154" name="Boss" type="Boss" x="266.667" y="853.5" width="24" height="24">
+   <properties>
+    <property name="Boss_Number" value="1"/>
+   </properties>
+  </object>
+  <object id="175" name="Blue-Flame" type="Blue-Flame" x="19.6667" y="302" width="16" height="16"/>
+  <object id="176" name="Blue-Flame" type="Blue-Flame" x="51.6667" y="302" width="16" height="16"/>
+  <object id="177" name="Blue-Flame" type="Blue-Flame" x="83.6667" y="302" width="16" height="16"/>
+  <object id="178" name="Blue-Flame" type="Blue-Flame" x="115.667" y="302" width="16" height="16"/>
+  <object id="179" name="Blue-Flame" type="Blue-Flame" x="147.667" y="302" width="16" height="16"/>
+  <object id="186" name="Blue-Flame" type="Blue-Flame" x="425.167" y="302.5" width="16" height="16"/>
+  <object id="187" name="Blue-Flame" type="Blue-Flame" x="457.167" y="302.5" width="16" height="16"/>
+  <object id="188" name="Blue-Flame" type="Blue-Flame" x="361.167" y="302.5" width="16" height="16"/>
+  <object id="189" name="Blue-Flame" type="Blue-Flame" x="489.167" y="302.5" width="16" height="16"/>
+  <object id="190" name="Blue-Flame" type="Blue-Flame" x="393.167" y="302.5" width="16" height="16"/>
+  <object id="269" type="Bird" x="303.667" y="661" width="5.66667" height="6"/>
+  <object id="270" type="Bird" x="297.167" y="702" width="5.66667" height="6"/>
+  <object id="271" type="Bird" x="275.667" y="691" width="5.66667" height="6"/>
+  <object id="272" type="Bird" x="271.167" y="641" width="5.66667" height="6"/>
+  <object id="273" type="Bird" x="177.167" y="630.5" width="5.66667" height="6"/>
+  <object id="274" type="Bird" x="193.167" y="697" width="5.66667" height="6"/>
+  <object id="275" type="Bird" x="329.667" y="610" width="5.66667" height="6"/>
+  <object id="276" type="Bird" x="263.167" y="610" width="5.66667" height="6"/>
+  <object id="277" type="Bird" x="253.167" y="721.5" width="5.66667" height="6"/>
+  <object id="278" type="Bird" x="324.167" y="740" width="5.66667" height="6"/>
+  <object id="279" type="Bird" x="355.167" y="699" width="5.66667" height="6"/>
+  <object id="280" type="Bird" x="213.167" y="756" width="5.66667" height="6"/>
+  <object id="281" type="Bird" x="230.667" y="666" width="5.66667" height="6"/>
+  <object id="310" name="Mech" type="Mech" x="267.5" y="481" width="24" height="24"/>
+ </objectgroup>
+ <objectgroup id="10" name="Doors">
+  <object id="84" type="Door" x="215.667" y="4.5" width="128" height="23.5">
+   <properties>
+    <property name="Door" value="Dungeon_Floor_1 528 725"/>
+    <property name="is_sensor" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="90" name="Shulk" type="Shulk" x="315.667" y="448" width="16" height="16"/>
+  <object id="191" type="Player" x="269.667" y="90.5" width="16" height="16"/>
+  <object id="268" name="Shulk" type="Shulk" x="212.5" y="448" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="11" name="Billboards">
+  <object id="93" name="Column" type="Billboard" x="83.6667" y="310" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="95" name="Column" type="Billboard" x="51.6667" y="310" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="96" name="Column" type="Billboard" x="19.6667" y="310" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="97" name="Column" type="Billboard" x="115.667" y="310" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="98" name="Column" type="Billboard" x="147.667" y="310" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="99" name="Column" type="Billboard" x="361.167" y="310.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="100" name="Column" type="Billboard" x="393.167" y="310.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="101" name="Column" type="Billboard" x="425.167" y="310.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="102" name="Column" type="Billboard" x="457.167" y="310.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="103" name="Column" type="Billboard" x="489.167" y="310.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="104" x="394.167" y="344.5" width="14" height="14"/>
+  <object id="105" x="361.985" y="344.227" width="14" height="14"/>
+  <object id="106" x="426.712" y="344.773" width="14" height="14"/>
+  <object id="107" x="458.349" y="344.409" width="14" height="14"/>
+  <object id="108" x="490.894" y="344.227" width="14" height="14"/>
+  <object id="109" x="148.849" y="343.909" width="14" height="14"/>
+  <object id="110" x="116.667" y="344.273" width="14" height="14"/>
+  <object id="111" x="84.3027" y="344.091" width="14" height="14"/>
+  <object id="112" x="52.8485" y="343.727" width="14" height="14"/>
+  <object id="113" x="20.3031" y="344.091" width="14" height="14"/>
+  <object id="217" name="Blue-Flame" type="Blue-Flame" x="198.167" y="350" width="16" height="16"/>
+  <object id="218" name="Column" type="Billboard" x="198.167" y="358" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="219" x="199.894" y="391.727" width="14" height="14"/>
+  <object id="220" name="Blue-Flame" type="Blue-Flame" x="522.667" y="302.5" width="16" height="16"/>
+  <object id="221" name="Column" type="Billboard" x="522.667" y="310.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="222" x="525.394" y="343.227" width="14" height="14"/>
+  <object id="223" name="Blue-Flame" type="Blue-Flame" x="672.167" y="289" width="16" height="16"/>
+  <object id="224" name="Column" type="Billboard" x="343.667" y="233" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="225" x="673.894" y="330.727" width="14" height="14"/>
+  <object id="226" name="Blue-Flame" type="Blue-Flame" x="343.167" y="272.5" width="16" height="16"/>
+  <object id="227" name="Column" type="Billboard" x="696.167" y="250" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="228" x="697.894" y="283.727" width="14" height="14"/>
+  <object id="229" name="Blue-Flame" type="Blue-Flame" x="722.167" y="212" width="16" height="16"/>
+  <object id="230" name="Column" type="Billboard" x="722.167" y="220" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="231" x="723.894" y="253.727" width="14" height="14"/>
+  <object id="232" name="Blue-Flame" type="Blue-Flame" x="751.167" y="195.5" width="16" height="16"/>
+  <object id="233" name="Column" type="Billboard" x="751.167" y="203.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="234" x="752.894" y="237.227" width="14" height="14"/>
+  <object id="235" name="Blue-Flame" type="Blue-Flame" x="784.167" y="178" width="16" height="16"/>
+  <object id="236" name="Column" type="Billboard" x="784.167" y="186" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="237" x="785.894" y="219.727" width="14" height="14"/>
+  <object id="238" name="Blue-Flame" type="Blue-Flame" x="241.667" y="623" width="16" height="16"/>
+  <object id="239" name="Column" type="Billboard" x="241.667" y="631" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="240" x="243.394" y="664.727" width="14" height="14"/>
+  <object id="241" name="Blue-Flame" type="Blue-Flame" x="944.667" y="161.5" width="16" height="16"/>
+  <object id="242" name="Column" type="Billboard" x="944.667" y="169.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="243" x="946.394" y="203.227" width="14" height="14"/>
+  <object id="244" name="Blue-Flame" type="Blue-Flame" x="979.167" y="178" width="16" height="16"/>
+  <object id="245" name="Column" type="Billboard" x="979.167" y="186" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="246" x="980.894" y="219.727" width="14" height="14"/>
+  <object id="247" name="Blue-Flame" type="Blue-Flame" x="1022.67" y="197.5" width="16" height="16"/>
+  <object id="248" name="Column" type="Billboard" x="1022.67" y="205.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="249" x="1024.39" y="239.227" width="14" height="14"/>
+  <object id="250" name="Blue-Flame" type="Blue-Flame" x="1055.67" y="214" width="16" height="16"/>
+  <object id="251" name="Column" type="Billboard" x="1055.67" y="222" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="252" x="1057.39" y="255.727" width="14" height="14"/>
+  <object id="253" name="Blue-Flame" type="Blue-Flame" x="1087.67" y="242.5" width="16" height="16"/>
+  <object id="254" name="Column" type="Billboard" x="1087.67" y="250.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="255" x="1089.39" y="284.227" width="14" height="14"/>
+  <object id="256" name="Blue-Flame" type="Blue-Flame" x="1103.67" y="277.5" width="16" height="16"/>
+  <object id="257" name="Column" type="Billboard" x="1103.67" y="285.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="258" x="1105.39" y="319.227" width="14" height="14"/>
+  <object id="262" name="Blue-Flame" type="Blue-Flame" x="180.667" y="302" width="16" height="16"/>
+  <object id="263" name="Column" type="Billboard" x="180.667" y="310" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="264" x="182.394" y="343.727" width="14" height="14"/>
+  <object id="265" name="Blue-Flame" type="Blue-Flame" x="328.167" y="349.5" width="16" height="16"/>
+  <object id="266" name="Column" type="Billboard" x="328.167" y="357.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="267" x="329.894" y="391.227" width="14" height="14"/>
+  <object id="283" name="Blue-Flame" type="Blue-Flame" x="344.5" y="222" width="16" height="16"/>
+  <object id="284" name="Blue-Flame" type="Blue-Flame" x="345" y="174" width="16" height="16"/>
+  <object id="285" name="Blue-Flame" type="Blue-Flame" x="198.5" y="33" width="16" height="16"/>
+  <object id="286" name="Blue-Flame" type="Blue-Flame" x="345.5" y="30" width="16" height="16"/>
+  <object id="287" name="Blue-Flame" type="Blue-Flame" x="201.5" y="126" width="16" height="16"/>
+  <object id="288" name="Blue-Flame" type="Blue-Flame" x="199" y="173.5" width="16" height="16"/>
+  <object id="289" name="Blue-Flame" type="Blue-Flame" x="200.5" y="222" width="16" height="16"/>
+  <object id="290" name="Blue-Flame" type="Blue-Flame" x="197.5" y="269.5" width="16" height="16"/>
+  <object id="297" name="Column" type="Billboard" x="198" y="227.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="298" name="Column" type="Billboard" x="200" y="180" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="299" name="Column" type="Billboard" x="200.5" y="132" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="300" name="Column" type="Billboard" x="200" y="84.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="301" name="Column" type="Billboard" x="199" y="36" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="302" name="Column" type="Billboard" x="344" y="34" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="303" name="Column" type="Billboard" x="344" y="81.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="304" name="Column" type="Billboard" x="342.5" y="136" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="305" name="Column" type="Billboard" x="342.5" y="176.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="306" name="Column" type="Billboard" x="605" y="185.5" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="307" name="Blue-Flame" type="Blue-Flame" x="304.5" y="624" width="16" height="16"/>
+  <object id="308" name="Column" type="Billboard" x="304.5" y="632" width="16" height="48">
+   <properties>
+    <property name="Region" value="152 0 16 48"/>
+   </properties>
+  </object>
+  <object id="309" x="306.227" y="665.727" width="14" height="14"/>
+ </objectgroup>
+ <objectgroup id="12" name="Solids">
+  <object id="6" x="858.167" y="356" width="128" height="8"/>
+  <object id="9" x="960.667" y="204" width="48" height="16"/>
+  <object id="10" x="1008.67" y="220" width="32" height="16"/>
+  <object id="12" x="1040.67" y="236" width="32" height="16"/>
+  <object id="13" x="1072.67" y="252" width="16" height="16"/>
+  <object id="14" x="1088.67" y="268" width="16" height="16"/>
+  <object id="16" x="1104.67" y="284" width="16" height="32"/>
+  <object id="17" x="1120.67" y="316" width="16" height="32"/>
+  <object id="18" x="511.667" y="293" width="16" height="48"/>
+  <object id="19" x="527.667" y="341" width="8" height="128"/>
+  <object id="20" x="511.667" y="469" width="16" height="48"/>
+  <object id="21" x="495.667" y="517" width="16" height="32"/>
+  <object id="22" x="479.667" y="549" width="16" height="32"/>
+  <object id="23" x="463.667" y="581" width="16" height="16"/>
+  <object id="25" x="447.667" y="597" width="16" height="16"/>
+  <object id="26" x="415.667" y="613" width="32" height="16"/>
+  <object id="28" x="-3.33333" y="800.5" width="259" height="16"/>
+  <object id="31" x="304.667" y="798.5" width="297" height="16"/>
+  <object id="32" x="210.667" y="2" width="128" height="16"/>
+  <object id="33" x="-19.8333" y="882" width="658.5" height="16"/>
+  <object id="34" x="128.167" y="630.5" width="32" height="16"/>
+  <object id="35" x="96.1667" y="614.5" width="32" height="16"/>
+  <object id="36" x="80.1667" y="598.5" width="16" height="16"/>
+  <object id="37" x="64.1667" y="582.5" width="16" height="16"/>
+  <object id="38" x="48.1667" y="550.5" width="16" height="32"/>
+  <object id="40" x="32.1667" y="518.5" width="16" height="32"/>
+  <object id="41" x="16.1667" y="470.5" width="16" height="48"/>
+  <object id="42" x="12.1667" y="338.5" width="8" height="592.5"/>
+  <object id="43" x="640.667" y="348" width="16" height="48"/>
+  <object id="44" x="656.667" y="316" width="16" height="32"/>
+  <object id="45" x="672.667" y="284" width="16" height="32"/>
+  <object id="47" x="688.667" y="268" width="16" height="16"/>
+  <object id="50" x="704.667" y="252" width="16" height="16"/>
+  <object id="51" x="720.667" y="236" width="32" height="16"/>
+  <object id="52" x="752.667" y="220" width="32" height="16"/>
+  <object id="53" x="784.667" y="204" width="48" height="16"/>
+  <object id="54" x="960.667" y="588">
+   <polyline points="0,0 -8,80"/>
+  </object>
+  <object id="55" x="832.667" y="588">
+   <polyline points="0,0 8,80"/>
+  </object>
+  <object id="56" x="255.167" y="662">
+   <polyline points="0,0 0,153"/>
+  </object>
+  <object id="57" x="960.667" y="588">
+   <polyline points="0,0 0,136"/>
+  </object>
+  <object id="58" x="335.167" y="30.5">
+   <polyline points="0,0 0,365"/>
+  </object>
+  <object id="59" x="222.667" y="35.5">
+   <polyline points="0,0 0,369.5"/>
+  </object>
+  <object id="66" x="179.917" y="249.5">
+   <polyline points="0,0 0.75,95.5"/>
+  </object>
+  <object id="67" x="345.417" y="390.25">
+   <polyline points="0,0 -0.25,-95.75"/>
+  </object>
+  <object id="68" x="5.16667" y="305.5" width="175.5" height="48"/>
+  <object id="69" x="345.167" y="294.5" width="176.5" height="48"/>
+  <object id="282" x="534" y="346.75" width="8" height="592.5"/>
+  <object id="291" x="335.5" y="645.5" width="48" height="16"/>
+  <object id="292" x="384" y="630.5" width="32" height="16"/>
+  <object id="293" x="304.5" y="664" width="32" height="16"/>
+  <object id="294" x="208.5" y="663" width="47.5" height="16"/>
+  <object id="295" x="159.5" y="648" width="49.5" height="16"/>
+  <object id="296" x="305" y="662.5">
+   <polyline points="0,0 0,153"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="13" name="Hulls">
+  <object id="78" type="hull" x="344.985" y="294.5">
+   <polyline points="0,0 0.181818,96 0.363636,-0.181818 -0.727273,-0.181818"/>
+  </object>
+  <object id="79" type="hull" x="180.122" y="249.545">
+   <polyline points="0,0 0.363636,95.0909 0.545455,0.181818"/>
+  </object>
+  <object id="80" type="hull" x="347.173" y="342.682">
+   <polyline points="0,0 174.494,-0.181818 174.494,-48.1818 -2.00568,-48.1818 -2.00568,-0.181818"/>
+  </object>
+  <object id="82" type="hull" x="5.98107" y="342.667">
+   <polyline points="0,0 172.846,-0.181818 172.846,-48.1818 -1.98674,-48.1818 -1.98674,-0.181818"/>
+  </object>
+  <object id="83" type="hull" x="1137.17" y="114">
+   <polyline points="0,0 0,-16 -16,-16 -16,-48 -32,-48 -32,-80 -48,-80 -48,-96 -64,-96 -64,-112 -96,-112 -96,-128 -128,-128 -128,-144 -176,-144 -176,-160 -304,-160 -304,-144 -352,-144 -352,-128 -384,-128 -384,-112 -416,-112 -416,-96 -432,-96 -432,-80 -448,-80 -448,-48 -464,-48 -464,-16 -480,-16 -480,32 -496,32 -484,-150.667 -180.667,-246 58,-51.3333 16,32 0,32 0,0"/>
+  </object>
+  <object id="157" x="1047.92" y="245.75">
+   <polyline points="0,0 -33.25,19.25"/>
+  </object>
+  <object id="158" x="1014.67" y="265">
+   <polyline points="0,0 20,26.25"/>
+  </object>
+  <object id="159" x="1034.42" y="290.75">
+   <polyline points="0,0 32,1.25"/>
+  </object>
+  <object id="160" x="1066.42" y="292">
+   <polyline points="0,0 11.75,-21.75"/>
+  </object>
+  <object id="161" x="1077.92" y="270.75">
+   <polyline points="0,0 -12,-27.25"/>
+  </object>
+ </objectgroup>
+</map>

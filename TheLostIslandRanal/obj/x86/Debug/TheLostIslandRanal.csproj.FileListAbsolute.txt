@@ -1,0 +1,84 @@
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.csprojAssemblyReference.cache
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.csproj.CoreCompileInputs.cache
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.csproj.CopyComplete
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.exe
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.pdb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Content\0x72_16x16DungeonTileset.v4.xnb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Content\Dungeon_Tileset.xnb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Content\Map1.xnb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Content\OutdoorsTileset.xnb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\TheLostIslandRanal.exe
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\TheLostIslandRanal.pdb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Graphics.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Tiled.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Framework.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Newtonsoft.Json.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.MediaFoundation.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.XAudio2.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.DXGI.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.Direct3D11.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.Direct2D1.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.XInput.dll
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.pdb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Graphics.pdb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Graphics.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Tiled.pdb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Tiled.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Framework.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Newtonsoft.Json.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.MediaFoundation.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.XAudio2.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.DXGI.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.Direct3D11.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.Direct2D1.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\SharpDX.XInput.xml
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Content\Map2.xnb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Content\tilesheet.xnb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Content\flag_1.xnb
+C:\Users\kubas\source\repos\TheLostIslandRanal\TheLostIslandRanal\Comora.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.csprojAssemblyReference.cache
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.csproj.CoreCompileInputs.cache
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.csproj.CopyComplete
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Content\0x72_16x16DungeonTileset.v4.xnb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Content\Dungeon_Tileset.xnb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Content\flag_1.xnb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Content\Map1.xnb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Content\Map2.xnb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Content\OutdoorsTileset.xnb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Content\tilesheet.xnb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.exe
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\obj\x86\Debug\TheLostIslandRanal.pdb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\TheLostIslandRanal.exe
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\TheLostIslandRanal.pdb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Comora.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Graphics.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Tiled.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Framework.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Newtonsoft.Json.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.MediaFoundation.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.XAudio2.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.DXGI.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.Direct3D11.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.Direct2D1.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.XInput.dll
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.pdb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Graphics.pdb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Graphics.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Tiled.pdb
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Extended.Tiled.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\MonoGame.Framework.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\Newtonsoft.Json.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.MediaFoundation.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.XAudio2.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.DXGI.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.Direct3D11.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.Direct2D1.xml
+C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\TheLostIslandRanal\TheLostIslandRanal\SharpDX.XInput.xml

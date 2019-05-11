@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Audio/Bloom.wav</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Background_2.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/boss_1.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Charactors.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/DialogFont.spritefont</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/dungeon_tiles.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/entities.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/GFont.spritefont</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/gui.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/items.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/logo.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Logo_background.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Maps/0x72_16x16DungeonTileset.v4.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Maps/Dungeon_Tileset.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Maps/OutdoorsTileset.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Models/ico0.obj</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/SquareLogo_1024px.png</File>
+    <File>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Tiles_1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
