@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/Tiles_1.png</SourceFile>
-  <SourceTime>2018-09-18T20:26:43+01:00</SourceTime>
-  <DestFile>C:/Users/The Geekiest One/OneDrive - University of Westminster/Desktop/GameDev Project 1/1TheLostIslandRanal/Lost_Island_Ranal/Content/bin/DesktopGL/Content/Tiles_1.xnb</DestFile>
-  <DestTime>2019-05-06T19:50:50.4573109+01:00</DestTime>
+  <SourceFile>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/Lost_Island_Ranal/Content/Tiles_1.png</SourceFile>
+  <SourceTime>2018-09-18T20:26:44+01:00</SourceTime>
+  <DestFile>C:/Users/The Geekiest One/Google Drive/GitHub/The-Lost-Island-of-R-anal-Monogame/Lost_Island_Ranal/Content/bin/DesktopGL/Content/Tiles_1.xnb</DestFile>
+  <DestTime>2019-05-11T14:46:12.0658109+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-09-24T21:04:24+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

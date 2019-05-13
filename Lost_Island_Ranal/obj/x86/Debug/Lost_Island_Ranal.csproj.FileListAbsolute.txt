@@ -131,3 +131,8 @@ C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev P
 C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\1TheLostIslandRanal\Lost_Island_Ranal\obj\x86\Debug\Lost_Island_Ranal.csproj.CopyComplete
 C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\1TheLostIslandRanal\Lost_Island_Ranal\obj\x86\Debug\Lost_Island_Ranal.exe
 C:\Users\The Geekiest One\OneDrive - University of Westminster\Desktop\GameDev Project 1\1TheLostIslandRanal\Lost_Island_Ranal\obj\x86\Debug\Lost_Island_Ranal.pdb
+C:\Users\The Geekiest One\Google Drive\GitHub\The-Lost-Island-of-R-anal-Monogame\Lost_Island_Ranal\obj\x86\Debug\Lost_Island_Ranal.csprojAssemblyReference.cache
+C:\Users\The Geekiest One\Google Drive\GitHub\The-Lost-Island-of-R-anal-Monogame\Lost_Island_Ranal\obj\x86\Debug\Lost_Island_Ranal.csproj.CoreCompileInputs.cache
+C:\Users\The Geekiest One\Google Drive\GitHub\The-Lost-Island-of-R-anal-Monogame\Lost_Island_Ranal\obj\x86\Debug\Lost_Island_Ranal.exe.manifest
+C:\Users\The Geekiest One\Google Drive\GitHub\The-Lost-Island-of-R-anal-Monogame\Lost_Island_Ranal\obj\x86\Debug\Lost_Island_Ranal.exe
+C:\Users\The Geekiest One\Google Drive\GitHub\The-Lost-Island-of-R-anal-Monogame\Lost_Island_Ranal\obj\x86\Debug\Lost_Island_Ranal.pdb
