@@ -194,7 +194,7 @@ return {
 		end
 	end,
 
-	-- Mech AI
+	-- Demon AI
 	Mech_AI = function(entity, engine)
 		local mx_dist	= 75
 		local body		= engine:Get_Component(entity, "Body")

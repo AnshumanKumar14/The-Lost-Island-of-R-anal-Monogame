@@ -93,7 +93,7 @@ return {
 		}
 	},
 
-	["Mech"] = {
+	["Demon"] = {
 		tags = {"Enemy"},
 		components = {
 			["Body"] = {12, 6},

@@ -309,8 +309,8 @@
 </data>
  </layer>
  <objectgroup name="Entities">
-  <object id="12" name="Mech" type="Mech" x="611.667" y="575.667" width="24" height="24"/>
-  <object id="13" name="Mech" type="Mech" x="402" y="574.333" width="24" height="24"/>
+  <object id="12" name="Demon" type="Demon" x="611.667" y="575.667" width="24" height="24"/>
+  <object id="13" name="Demon" type="Demon" x="402" y="574.333" width="24" height="24"/>
  </objectgroup>
  <layer name="Shadow" width="128" height="128">
   <properties>

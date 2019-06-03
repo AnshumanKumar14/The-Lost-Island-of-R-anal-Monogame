@@ -561,7 +561,7 @@
   <object id="24" x="-0.666667" y="344.333" width="161.333" height="8"/>
   <object id="25" x="-2" y="350.667" width="9.33333" height="161.333"/>
   <object id="27" x="-0.666667" y="512.667" width="162.667" height="6.66667"/>
-  <object id="28" type="Mech" x="260" y="346" width="18" height="18"/>
+  <object id="28" type="Demon" x="260" y="346" width="18" height="18"/>
   <object id="29" type="Wolf" x="304" y="442" width="16" height="16"/>
   <object id="31" x="392" y="504" width="336" height="8"/>
   <object id="32" x="392" y="336" width="336" height="8"/>

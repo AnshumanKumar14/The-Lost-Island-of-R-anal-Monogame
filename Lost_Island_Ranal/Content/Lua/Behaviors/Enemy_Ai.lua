@@ -51,7 +51,7 @@ return {
 		},
 	},
 
-	["Bird_Ai"] = {
+	["Bird_Ai"] = { --Bird flies away when player gets in range
 	"block",
 		{"if_not_flag", is_flying},
 		{"block_with_skip",
@@ -98,7 +98,7 @@ return {
 			}
 	},
 
-	["Shulk_Ai"] = {
+	["Ranged_Ai"] = {
 	"block",
 		{"entity_within", "Player", 150},
 		{"block_with_skip",
